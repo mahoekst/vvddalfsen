@@ -1,96 +1,131 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bigspring Light</title>
+    <title>Homepage on Hugo Serif Theme!</title>
     <link>//localhost:1313/</link>
-    <description>Recent content on Bigspring Light</description>
+    <description>Recent content in Homepage on Hugo Serif Theme!</description>
     <generator>Hugo</generator>
-    <language>en-US</language>
-    <lastBuildDate>Thu, 18 Feb 2021 10:07:21 +0600</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Dec 2018 13:44:55 +1000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How and why we decided to launch an EMI scheme for our employees</title>
-      <link>//localhost:1313/blog/post-7/</link>
-      <pubDate>Thu, 18 Feb 2021 10:07:21 +0600</pubDate>
-      <guid>//localhost:1313/blog/post-7/</guid>
-      <description>&lt;p&gt;Heading example Here is example of hedings. You can use this heading by following markdownify rules.&lt;/p&gt;</description>
+      <title>Gerrit Jan Veldhuis</title>
+      <link>//localhost:1313/team/gerrit-jan-veldhuis/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      <guid>//localhost:1313/team/gerrit-jan-veldhuis/</guid>
+      <description>&lt;p&gt;Mijn naam is Gerrit Jan Veldhuis, 53 jaar, trotse vader van drie kinderen, en in het dagelijkse leven ben ik manager software development bij Vadain. Ik woon met ontzettend veel plezier in Dalfsen. Nadat ik enkele jaren in verband met mijn studie elders heb gewoond, ben ik in 2002 bewust weer terug gegaan om mijn kinderen hier te kunnen laten opgroeien. Want in Dalfsen is het leven goed. Het is een prachtige, groene gemeente met veel voorzieningen voor de bewoners.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>What to consider before starting a business – Inside The Studio</title>
-      <link>//localhost:1313/blog/post-8/</link>
-      <pubDate>Mon, 18 Jan 2021 10:07:21 +0600</pubDate>
-      <guid>//localhost:1313/blog/post-8/</guid>
-      <description>&lt;p&gt;Heading example Here is example of hedings. You can use this heading by following markdownify rules.&lt;/p&gt;</description>
+      <title>Accounting</title>
+      <link>//localhost:1313/services/accounting/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <guid>//localhost:1313/services/accounting/</guid>
+      <description>&lt;p&gt;Financial accounting (or financial accountancy) is the field of accounting concerned with the &lt;strong&gt;summary, analysis and reporting&lt;/strong&gt; of financial transactions related to a business.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Adversus is a web-based dialer and practical CRM solution</title>
-      <link>//localhost:1313/blog/post-1/</link>
-      <pubDate>Tue, 18 Aug 2020 10:07:21 +0600</pubDate>
-      <guid>//localhost:1313/blog/post-1/</guid>
-      <description>&lt;p&gt;Heading example Here is example of hedings. You can use this heading by following markdownify rules.&lt;/p&gt;</description>
+      <title>Business Advisory</title>
+      <link>//localhost:1313/services/business-advisory/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      <guid>//localhost:1313/services/business-advisory/</guid>
+      <description>Business Advisory is a specialized account service that offers expert guidance and strategic support to businesses.</description>
     </item>
     <item>
-      <title>Pump-up the team morale and celebrate the excellence</title>
-      <link>//localhost:1313/blog/post-2/</link>
-      <pubDate>Sat, 18 Jul 2020 10:07:21 +0600</pubDate>
-      <guid>//localhost:1313/blog/post-2/</guid>
-      <description>&lt;p&gt;Heading example Here is example of hedings. You can use this heading by following markdownify rules.&lt;/p&gt;</description>
+      <title>Antoine van der Vegt</title>
+      <link>//localhost:1313/team/antoine-van-der-vegt/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      <guid>//localhost:1313/team/antoine-van-der-vegt/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>screens with built in Present and Dismiss animations.</title>
-      <link>//localhost:1313/blog/post-3/</link>
-      <pubDate>Thu, 18 Jun 2020 10:07:21 +0600</pubDate>
-      <guid>//localhost:1313/blog/post-3/</guid>
-      <description>&lt;p&gt;Heading example Here is example of hedings. You can use this heading by following markdownify rules.&lt;/p&gt;</description>
+      <title>Scarlet Klein</title>
+      <link>//localhost:1313/team/scarlett-klein/</link>
+      <pubDate>Thu, 20 Dec 2018 13:44:30 +1000</pubDate>
+      <guid>//localhost:1313/team/scarlett-klein/</guid>
+      <description>&lt;p&gt;Ik ben Scarlett Klein, 49 jaar en woon sinds 2007 in het buitengebied van Nieuwleusen. In het dagelijks leven werk bij ING als transactie analist op de afdeling klantonderzoeken. In mijn vrije tijd hou ik me bezig met mijn twee paarden en mijn hond. De voornaamste reden dat ik me kandidaat stel voor de VVD is dat ik het belangrijk vind om een sociale en maatschappelijke bijdrage te leveren aan de prachtige gemeente waarin ik woon.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Adversus is a web-based dialer and practical CRM solution</title>
-      <link>//localhost:1313/blog/post-4/</link>
-      <pubDate>Mon, 18 May 2020 10:07:21 +0600</pubDate>
-      <guid>//localhost:1313/blog/post-4/</guid>
-      <description>&lt;p&gt;Heading example Here is example of hedings. You can use this heading by following markdownify rules.&lt;/p&gt;</description>
+      <title>Business Sales</title>
+      <link>//localhost:1313/services/business-sales/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      <guid>//localhost:1313/services/business-sales/</guid>
+      <description>&lt;p&gt;Business Sales refers to the process of selling a company or its assets to interested buyers, often involving the transfer of ownership and control.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Adversus is a web-based dialer and practical CRM solution</title>
-      <link>//localhost:1313/blog/post-5/</link>
-      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
-      <guid>//localhost:1313/blog/post-5/</guid>
-      <description>&lt;p&gt;Heading example Here is example of hedings. You can use this heading by following markdownify rules.&lt;/p&gt;</description>
+      <title>Matthijs Hoekstra</title>
+      <link>//localhost:1313/team/matthijs-hoekstra/</link>
+      <pubDate>Thu, 20 Dec 2018 13:44:55 +1000</pubDate>
+      <guid>//localhost:1313/team/matthijs-hoekstra/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Adversus is a web-based dialer and practical CRM solution</title>
-      <link>//localhost:1313/blog/post-6/</link>
-      <pubDate>Wed, 18 Mar 2020 10:07:21 +0600</pubDate>
-      <guid>//localhost:1313/blog/post-6/</guid>
-      <description>&lt;p&gt;Heading example Here is example of hedings. You can use this heading by following markdownify rules.&lt;/p&gt;</description>
+      <title>Mergers</title>
+      <link>//localhost:1313/services/mergers/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      <guid>//localhost:1313/services/mergers/</guid>
+      <description>&lt;p&gt;Mergers involve the combination of two or more companies into a single entity, typically aimed at achieving synergies, expanding market presence, or enhancing competitive advantages.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Contact Us</title>
+      <title>Hugo Endeman</title>
+      <link>//localhost:1313/team/hugo-endeman/</link>
+      <pubDate>Thu, 20 Dec 2018 13:44:30 +1000</pubDate>
+      <guid>//localhost:1313/team/hugo-endeman/</guid>
+      <description>&lt;p&gt;Ik ben Hugo Endeman 30 jaar en woon in het mooie Dalfsen. In het dagelijks leven ben ik ondernemer in de sportkleding branche. Daarnaast ben ik actief als voetballer van SV Dalfsen. In mijn vrije tijd probeer ik zoveel mogelijk op de racefiets of mountainbike te genieten van het prachtige Vechtdal.&lt;/p&gt;&#xA;&lt;p&gt;Als nieuw lid van het VVD-Dalfsen team wil ik de komende periode voornamelijk ervaring opdoen in de gemeentelijke politiek. Door het team te ondersteunen hoop ik te kunnen bouwen aan een toekomst bestendige gemeente Dalfsen. Ook wil ik mij inzetten voor het toegankelijk houden van sporten voor kinderen. Ook de bouw van nieuwe woningen voor starters uit onze gemeente verdient zijn aandacht. De jonge Dalfsenaar moet centraal staan in de gemeentelijke plannen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Superannuation</title>
+      <link>//localhost:1313/services/superannuation/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
+      <guid>//localhost:1313/services/superannuation/</guid>
+      <description>&lt;p&gt;We provide expert guidance on setting up and structuring superannuation funds, ensuring compliance with regulatory requirements, and implementing tax-efficient strategies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Karin Broekman</title>
+      <link>//localhost:1313/team/karin-broekman/</link>
+      <pubDate>Thu, 20 Dec 2018 13:44:23 +1000</pubDate>
+      <guid>//localhost:1313/team/karin-broekman/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tax Preparation</title>
+      <link>//localhost:1313/services/tax-preperation/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <guid>//localhost:1313/services/tax-preperation/</guid>
+      <description>Our tax preparation accounting service offers a reliable and efficient solution for individuals and businesses seeking expert assistance in managing their tax obligations.</description>
+    </item>
+    <item>
+      <title>Reint Warmelink</title>
+      <link>//localhost:1313/team/reint-warmelink/</link>
+      <pubDate>Thu, 20 Dec 2018 13:44:23 +1000</pubDate>
+      <guid>//localhost:1313/team/reint-warmelink/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Patrick Belderink</title>
+      <link>//localhost:1313/team/patrick-belderink/</link>
+      <pubDate>Thu, 20 Dec 2018 13:44:23 +1000</pubDate>
+      <guid>//localhost:1313/team/patrick-belderink/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Andries van Dalfsen</title>
+      <link>//localhost:1313/team/andries-van-dalfsen/</link>
+      <pubDate>Thu, 20 Dec 2018 13:44:23 +1000</pubDate>
+      <guid>//localhost:1313/team/andries-van-dalfsen/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;Lorem markdownum aequalis strigis. &lt;em&gt;Saetigeri iubeas&lt;/em&gt;, vultu huic alvum nondum&#xA;de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae&#xA;crimen habet Priamum nec.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/smartworks-coworking-cW4lLTavU80-unsplash.jpg&#34; alt=&#34;About Us&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;ne-verba-patulosque-numen-vix-libet&#34;&gt;Ne verba patulosque numen vix libet&lt;/h2&gt;&#xA;&lt;p&gt;Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.&#xA;Ignibus inpatiens explorat, te tegens &lt;em&gt;ferro nocere haud&lt;/em&gt;, et Dulichium tui&#xA;male! Quo sed &lt;a href=&#34;#vexant-achivi&#34;&gt;fuit flexit et&lt;/a&gt; hic die solido, gloria?&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Cum det dixit Parcarum qui spemque est&lt;/li&gt;&#xA;&lt;li&gt;Exit ex huic&lt;/li&gt;&#xA;&lt;li&gt;Quod consiste agitataque claustraque vicina videt lacertis&lt;/li&gt;&#xA;&lt;li&gt;Loquor videt&lt;/li&gt;&#xA;&lt;li&gt;Ardua non igne caelesti coniugis cognovi diversorum&lt;/li&gt;&#xA;&lt;li&gt;Per nunc pariterque saeva vindicet&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco &lt;em&gt;vati&lt;/em&gt;&#xA;dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!&#xA;Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus&#xA;esse iam feres mortis Plurima.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
       <link>//localhost:1313/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
       <guid>//localhost:1313/contact/</guid>
-      <description>&lt;h4 id=&#34;why-you-should-contact-us&#34;&gt;Why you should contact us!&lt;/h4&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pricing</title>
-      <link>//localhost:1313/pricing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pricing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Privacy &amp; Policy</title>
-      <link>//localhost:1313/privacy-policy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/privacy-policy/</guid>
-      <description>&lt;h5 id=&#34;responsibility-of-contributors&#34;&gt;Responsibility of Contributors&lt;/h5&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Terms of Service</title>
-      <link>//localhost:1313/terms-conditions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/terms-conditions/</guid>
-      <description>&lt;h5 id=&#34;responsibility-of-contributors&#34;&gt;Responsibility of Contributors&lt;/h5&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed&lt;/p&gt;</description>
+      <description>&lt;p&gt;Contact met ons opnemen kan via:&lt;/p&gt;&#xA;&lt;p&gt;Mail: &lt;a href=&#34;mailto:g.veldhuis@dalfsen.nl&#34;&gt;g.veldhuis@dalfsen.nl&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Telefoon: 06-14875080&lt;/p&gt;&#xA;&lt;p&gt;Postadres:&lt;/p&gt;&#xA;&lt;p&gt;Gemeente Dalfsen&lt;/p&gt;&#xA;&lt;p&gt;T.a.v fractie VVD&lt;/p&gt;&#xA;&lt;p&gt;Postbus 35&lt;/p&gt;&#xA;&lt;p&gt;7720 AA Dalfsen&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

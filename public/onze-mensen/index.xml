@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Onze Mensen on Hugo Serif Theme!</title>
+    <link>//localhost:1313/onze-mensen/</link>
+    <description>Recent content in Onze Mensen on Hugo Serif Theme!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Dec 2018 13:44:55 +1000</lastBuildDate>
+    <atom:link href="//localhost:1313/onze-mensen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gerrit Jan Veldhuis</title>
+      <link>//localhost:1313/onze-mensen/gerrit-jan-veldhuis/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      <guid>//localhost:1313/onze-mensen/gerrit-jan-veldhuis/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;&#xA;&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tone</title>
+      <link>//localhost:1313/onze-mensen/tone/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      <guid>//localhost:1313/onze-mensen/tone/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scarlet Klein</title>
+      <link>//localhost:1313/onze-mensen/scarlett-klein/</link>
+      <pubDate>Thu, 20 Dec 2018 13:44:30 +1000</pubDate>
+      <guid>//localhost:1313/onze-mensen/scarlett-klein/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Matthijs Hoekstra</title>
+      <link>//localhost:1313/onze-mensen/matthijs-hoekstra/</link>
+      <pubDate>Thu, 20 Dec 2018 13:44:55 +1000</pubDate>
+      <guid>//localhost:1313/onze-mensen/matthijs-hoekstra/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Robert Johnson</title>
+      <link>//localhost:1313/onze-mensen/robert-johnson/</link>
+      <pubDate>Thu, 20 Dec 2018 13:44:23 +1000</pubDate>
+      <guid>//localhost:1313/onze-mensen/robert-johnson/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
