@@ -4,11 +4,11 @@ date: 2018-11-28T15:15:26+10:00
 featured: true
 draft: false
 weight: 2
-summary: "Zorg"
+summary: "Dalfsen bereikbaar met gezond verstand"
 ---
 
 Business Sales refers to the process of selling a company or its assets to interested buyers, often involving the transfer of ownership and control.
-<!--more-->
+
 It entails various activities such as valuing the business, identifying potential buyers, negotiating the terms of the sale, conducting due diligence, and finalizing the transaction.
 
 

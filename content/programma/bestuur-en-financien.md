@@ -1,13 +1,14 @@
 ---
-title: "Onderwijs"
+title: "Bestuur en financien"
 date: 2018-11-28T15:14:54+10:00
 featured: true
 draft: false
-weight: 5
-summary: "Praktijk of theorie, elke kans telt"
+weight: 7
+summary: "Slim financieel beleid: geen hogere lasten."
 ---
 
 We provide expert guidance on setting up and structuring superannuation funds, ensuring compliance with regulatory requirements, and implementing tax-efficient strategies.
+
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

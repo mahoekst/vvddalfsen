@@ -1,13 +1,13 @@
 ---
-title: "Onderwijs"
-date: 2018-11-28T15:14:54+10:00
-featured: true
+title: "Zorg en samenleving"
+date: 2018-11-18T12:33:46+10:00
 draft: false
-weight: 5
-summary: "Praktijk of theorie, elke kans telt"
+featured: true
+weight: 4
+summary: "Zorg op maat en een mentaal weerbare jeugd."
 ---
 
-We provide expert guidance on setting up and structuring superannuation funds, ensuring compliance with regulatory requirements, and implementing tax-efficient strategies.
+Our tax preparation accounting service offers a reliable and efficient solution for individuals and businesses seeking expert assistance in managing their tax obligations. With our team of experienced accountants, we meticulously review financial records, analyze expenses, and navigate the complexities of tax laws to ensure accurate and compliant tax preparation. 
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

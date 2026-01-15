@@ -4,11 +4,11 @@ date: 2018-11-28T15:14:39+10:00
 featured: true
 draft: false
 weight: 1
-summary: "Wonen en leefbaarheid."
+summary: "Minder praten, sneller bouwen: wonen in je eigen kern"
 ---
 
-Business Advisory is a specialized account service that offers expert guidance and strategic support to businesses. Through financial management, risk 
-assessment, and performance improvement, this service provides businesses with the necessary tools and insights to optimize their operations and drive success.
+Iedereen verdient een fijn thuis in onze gemeente. Door kortere procedures en een focus op eigen inwoners maken we wonen weer bereikbaar voor starters en senioren2222.
+
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
