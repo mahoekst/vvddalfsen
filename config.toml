@@ -34,11 +34,12 @@ title = "VVD Dalfsen gemeenteraadsverkiezingen 2026"
     base = "Source Sans Pro"
 
   [params.colors]
-    primary = "#f24088"
-    black = "#2f2f41"
+    primary = "#f50"
+    secondprimary = "#0A2CCA"
+    black = "#1d1d1d"
     white = "#ffffff"
     white_offset = "#f6f7ff"
-    grey = "#5C5A5A"
+    grey = "#0A2CCA"
 
   [params.seo]
     meta_twitter_site = "@zerostaticio"

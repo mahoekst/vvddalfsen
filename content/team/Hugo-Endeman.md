@@ -4,7 +4,10 @@ date: 2018-12-20T13:44:30+10:00
 draft: false
 image: 'images/team/joseph-gonzalez-399972-unsplash.jpg'
 jobtitle: '#5'
+promoted: true
 weight: 5
+email: "Hugo@xycl.nl"
+telephone: " 06-57317832"
 ---
 
 Ik ben Hugo Endeman 30 jaar en woon in het mooie Dalfsen. In het dagelijks leven ben ik ondernemer in de sportkleding branche. Daarnaast ben ik actief als voetballer van SV Dalfsen. In mijn vrije tijd probeer ik zoveel mogelijk op de racefiets of mountainbike te genieten van het prachtige Vechtdal.
