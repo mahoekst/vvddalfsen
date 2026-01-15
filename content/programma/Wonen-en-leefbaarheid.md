@@ -1,13 +1,14 @@
 ---
-title: "Superannuation"
-date: 2018-11-28T15:14:54+10:00
+title: "Wonen en leefbaarheid"
+date: 2018-11-28T15:14:39+10:00
 featured: true
 draft: false
-weight: 5
+weight: 1
+summary: "Wonen en leefbaarheid."
 ---
 
-We provide expert guidance on setting up and structuring superannuation funds, ensuring compliance with regulatory requirements, and implementing tax-efficient strategies.
-<!--more-->
+Business Advisory is a specialized account service that offers expert guidance and strategic support to businesses. Through financial management, risk 
+assessment, and performance improvement, this service provides businesses with the necessary tools and insights to optimize their operations and drive success.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
