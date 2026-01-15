@@ -21,9 +21,9 @@ title = "VVD Dalfsen gemeenteraadsverkiezingen 2026"
     show_services_button = false # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "images/logo/logo-vvd.svg"
+    mobile = "images/logo/logo-vvd-dalfsen.svg"
     mobile_height = "36px"
-    desktop = "images/logo/logo-vvd.svg"
+    desktop = "images/logo/logo-vvd-dalfsen.svg"
     desktop_height = "72px"
     alt = "VVD Dalfsen"
 
