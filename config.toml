@@ -9,6 +9,14 @@ title = "VVD Dalfsen gemeenteraadsverkiezingen 2026"
     extended = true
     min = "0.55.0"
 
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+
+  [[module.mounts]]
+    source = "static"
+    target = "assets"
+
 [params]
   # In most cases you will only want to set the google_analytics_id OR the google_tag_manager_id. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
   google_analytics_id = ""
@@ -67,7 +75,10 @@ title = "VVD Dalfsen gemeenteraadsverkiezingen 2026"
     url = "/team/"
     weight = 2
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1c77161 (content)
 
   [[menu.main]]
     name = "Contact"

@@ -1,0 +1,19 @@
+{{- /* Verwijder de leidende slash van het pad voor resources.Get */ -}}
+{{- $path := .Destination | relURL | strings.TrimPrefix "/" -}}
+{{- $img := resources.Get $path -}}
+
+
+
+{{- if $img -}}
+  {{- /* Gebruik de 'title' (bijv. "300x") of anders een standaardbreedte */ -}}
+  {{ $options := printf "%s webp q90 lanczos" (.Title | default "800x") }}
+  {{ $resized := $img.Resize $options }}
+  <img src="{{ $resized.RelPermalink }}" 
+       width="{{ $resized.Width }}" 
+       height="{{ $resized.Height }}" 
+       alt="{{ .Text }}">
+{{- else -}}
+  {{- /* Als Hugo de afbeelding nog steeds niet ziet, toon een waarschuwing in de console */ -}}
+  {{- warnf "Resizing mislukt: Afbeelding niet gevonden op pad: %q" $path -}}
+  <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
+{{- end -}}

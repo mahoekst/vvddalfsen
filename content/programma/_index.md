@@ -6,6 +6,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# VVD past bij jou
+# VVD - Vrij denken, lokaal doen
 
 De VVD Dalfsen staat voor vrijheid, verantwoordelijkheid en vertrouwen. We willen een zelfstandig, ondernemend en leefbaar Dalfsen, met een overheid die ondersteunt waar nodig en ruimte geeft waar het kan.
