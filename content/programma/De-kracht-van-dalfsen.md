@@ -1,10 +1,10 @@
 ---
-title: "De kracht van dalfsen"
+title: "De kracht van Dalfsen"
 date: 2018-11-28T15:14:54+10:00
 featured: true
 draft: false
 weight: 8
-summary: "Samen sterk, nuchter vooruit!s"
+summary: "Samen sterk, nuchter vooruit. Ruimte voor verenigingen, vrijwilligers en lokale initiatieven die onze gemeenschap verbinden."
 ---
 
 We provide expert guidance on setting up and structuring superannuation funds, ensuring compliance with regulatory requirements, and implementing tax-efficient strategies.

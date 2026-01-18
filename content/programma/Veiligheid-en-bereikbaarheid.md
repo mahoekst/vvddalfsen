@@ -4,7 +4,7 @@ date: 2018-11-28T15:15:26+10:00
 featured: true
 draft: false
 weight: 2
-summary: "Dalfsen bereikbaar met gezond verstand"
+summary: "Dalfsen bereikbaar met gezond verstand. Gerichte verbeteringen op gevaarlijke punten en betere verbindingen tussen kernen en Zwolle."
 ---
 
 Business Sales refers to the process of selling a company or its assets to interested buyers, often involving the transfer of ownership and control.

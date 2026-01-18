@@ -4,7 +4,7 @@ date: 2018-11-28T15:14:54+10:00
 featured: true
 draft: false
 weight: 7
-summary: "Slim financieel beleid: geen hogere lasten."
+summary: "Slim financieel beleid: geen hogere lasten. Minder regels, heldere communicatie en geld van inwoners laten werken voor inwoners."
 ---
 
 We provide expert guidance on setting up and structuring superannuation funds, ensuring compliance with regulatory requirements, and implementing tax-efficient strategies.

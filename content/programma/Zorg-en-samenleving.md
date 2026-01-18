@@ -4,7 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
 weight: 4
-summary: "Zorg op maat en een mentaal weerbare jeugd."
+summary: "Zorg dichtbij en persoonlijk. Ondersteuning voor mantelzorgers, aandacht voor mentale gezondheid en minder bureaucratie."
 ---
 
 Our tax preparation accounting service offers a reliable and efficient solution for individuals and businesses seeking expert assistance in managing their tax obligations. With our team of experienced accountants, we meticulously review financial records, analyze expenses, and navigate the complexities of tax laws to ensure accurate and compliant tax preparation. 

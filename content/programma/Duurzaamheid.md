@@ -4,7 +4,7 @@ date: 2018-11-28T15:15:34+10:00
 featured: true
 draft: false
 weight: 6
-summary: "Duurzaamheid die haalbaar en betaalbaar blijft."
+summary: "Duurzaamheid die haalbaar en betaalbaar blijft. Eerst zon op daken, geen verplichtingen voor aardgasvrij en voordeel voor inwoners."
 ---
 
 Mergers involve the combination of two or more companies into a single entity, typically aimed at achieving synergies, expanding market presence, or enhancing competitive advantages.
