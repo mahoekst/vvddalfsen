@@ -1,11 +1,11 @@
 ---
 title: 'Onze Mensen'
-##intro_image: "images/illustrations/meditate.svg"
-intro_image_absolute: true
+intro_image: "images/teamzittendBW.png"
+intro_image_absolute: false
 intro_image_absolute_offset: "auto auto -148px -102px"
 intro_image_hide_on_mobile: false
 ---
 
 # Onze mensen
 
-Dit zijn de kandidaten op onze kieslijst voor de verkiezingen van 2026 
+We hebben voor deze verkiezingen weer een mooie lijst met kandidaten. Een mix van ervaring en frisse nieuwe blikken. 
