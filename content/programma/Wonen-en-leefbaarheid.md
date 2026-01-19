@@ -39,7 +39,7 @@ Onze aanpak:
 
 Dalfsen groeit, maar blijft een gemeenschap waar mensen elkaar kennen en helpen. Vrijheid, verantwoordelijkheid en vertrouwen – dát is bouwen voor eigen inwoners.
 
-### Betaalbare woningen voor starters én ouderen
+> ### Betaalbare woningen voor starters én ouderen
 Iedereen moet in Dalfsen kunnen wonen in elke levensfase. Daarom zet de VVD in op **betaalbare** woningen voor starters én ouderen. Zo houden we onze dorpen leefbaar en zorgen we dat **doorstroming op gang komt**: ouderen verhuizen naar een passende woning, waardoor gezinswoningen vrijkomen voor jonge gezinnen en starters.
 
 Onze aanpak:
@@ -50,18 +50,56 @@ Onze aanpak:
 * **Flexibele woonvormen** zoals kleinere appartementen en levensloopbestendige woningen.
 
 Dalfsen blijft een plek waar je kunt starten, wortelen en waardig oud worden. Vrijheid, verantwoordelijkheid en vertrouwen – dát is wonen op z’n Dalfser.
-> ### Mantelzorgwoningen
-Ruimte op eigen terrein, dichtbij familie.
+> ### Mantelzorgwoningen: ruimte op eigen terrein, dichtbij familie
 
-> ### Flexibele woonvormen
-Kleine en tijdelijke woningen om snel in te spelen op de vraag.
+Zorg hoort dichtbij en persoonlijk te zijn. Daarom wil de VVD Dalfsen ruimte voor mantelzorgwoningen op eigen terrein. Zo kunnen familieleden voor elkaar zorgen zonder afhankelijk te zijn van dure of ingewikkelde oplossingen. Dit versterkt de saamhorigheid en maakt zorg eenvoudiger en betaalbaarder.
+
+Onze uitgangspunten:
+
+* **Ruimte geven** voor mantelzorgwoningen binnen bestaande regels.
+* **Snelle en praktische vergunningen**, zodat zorg niet vastloopt in bureaucratie.
+* **Behoud van leefbaarheid**: kleinschalig en passend bij het dorpse karakter.
+
+Vrijheid, verantwoordelijkheid en vertrouwen – dát is zorgen voor elkaar in Dalfsen.
+
+
+> ### Flexibele woonvormen: snel inspelen op de woningvraag
+Dalfsen heeft woningen nodig – nú. Daarom kiest de VVD voor kleine en tijdelijke woonvormen, zoals flexwoningen, om snel in te spelen op de groeiende vraag. Deze oplossingen bieden starters en spoedzoekers een kans om in hun eigen kern te blijven wonen, zonder jarenlange wachttijd.
+
+Onze uitgangspunten:
+
+* **Tempo maken**: flexwoningen versnellen de woningbouw en voorkomen dat mensen tussen wal en schip vallen.
+* **Kleinschalig en passend**: oplossingen die aansluiten bij het dorpse karakter van Dalfsen.
+* **Doorstroming bevorderen**: tijdelijke woningen geven ruimte aan starters, waardoor gezinswoningen vrijkomen.
+
+Vrijheid, verantwoordelijkheid en vertrouwen – dát is bouwen met flexibiliteit.
 
 > ### Leefbare kernen
 Voorzieningen behouden door samenwerking met inwoners, ondernemers en verenigingen.
 
+Dalfsen is meer dan woningen alleen – het zijn onze dorpen die het verschil maken. Voorzieningen zoals scholen, sportclubs en ontmoetingsplekken houden onze kernen levendig en aantrekkelijk. De VVD wil deze voorzieningen **behouden door samenwerking met inwoners, ondernemers en verenigingen**. Samen zorgen we ervoor dat Dalfsen een plek blijft waar het goed leven is, in elke kern.
+
+Onze uitgangspunten:
+
+* **Samen de schouders eronder**: overheid, inwoners en ondernemers werken samen aan praktische oplossingen.
+* **Gedeeld gebruik van gebouwen** en vrijwilligersinitiatieven om kosten te beperken en voorzieningen betaalbaar te houden.
+* **Leegstand tegengaan** door functies te mengen: wonen, werken, detailhandel en horeca.
+* **Behoud van het dorpse karakter**: voorzieningen dichtbij, zodat elke generatie zich thuis voelt.
+
+Vrijheid, verantwoordelijkheid en vertrouwen – dát is leefbaarheid op z’n Dalfser.
 > ### Praktische oplossingen tegen leegstand
 Functies mengen – wonen, werken, detailhandel en horeca – voor levendige dorpen.
 
+Leegstand maakt dorpen minder aantrekkelijk en tast de leefbaarheid aan. De VVD Dalfsen kiest voor **praktische oplossingen**: functies mengen om dorpen levendig te houden. Dat betekent ruimte voor **wonen, werken, detailhandel en horeca** in één gebied. Zo voorkomen we dat panden leegstaan en zorgen we voor dynamiek in onze kernen.
+
+Onze uitgangspunten:
+
+* **Functies combineren**: wonen en werken kunnen prima samengaan.
+* **Levendige dorpen** door ruimte voor horeca en detailhandel naast woningen.
+* **Samenwerking met ondernemers en inwoners** om creatieve oplossingen te realiseren.
+* **Behoud van voorzieningen** door slim gebruik van bestaande gebouwen.
+
+Vrijheid, verantwoordelijkheid en vertrouwen – dát is leegstand aanpakken op z’n Dalfser.
 
 
 ## Onze belofte
