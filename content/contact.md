@@ -6,16 +6,11 @@ layout: contact
 
 Contact met ons opnemen kan via:
 
-Mail: g.veldhuis@dalfsen.nl
+**Mail:** g.veldhuis@raaddalfsen.nl  
+**Telefoon:** 06-11255594
 
-Telefoon: 06-14875080
-
-Postadres:
-
-Gemeente Dalfsen
-
-T.a.v fractie VVD
-
-Postbus 35
-
+**Postadres:**  
+Gemeente Dalfsen  
+T.a.v fractie VVD  
+Postbus 35  
 7720 AA Dalfsen

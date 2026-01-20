@@ -5,8 +5,8 @@ draft: false
 image: "images/team/GerritJan.png"
 jobtitle: "#1 Lijsttrekker"
 #linkedinurl: "https://www.linkedin.com/"
-mail: "g.veldhuis@dalfsen.nl"
-tel: "06 - 11255594"
+mail: "g.veldhuis@raaddalfsen.nl"
+tel: "06-11255594"
 portefeuilles: "Alle programma's"
 promoted: true
 weight: 1
