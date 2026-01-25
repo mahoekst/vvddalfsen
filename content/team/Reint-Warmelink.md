@@ -2,7 +2,7 @@
 title: 'Reint Warmelink'
 date: 2018-12-20T13:44:23+10:00
 draft: false
-image: 'images/team/vince-fleming-613817-unsplash.jpg'
+image: 'images/team/Fallback-website-persoon-350x425.png'
 jobtitle: '#7'
 weight: 7
 email: "reintwarmelink@xs4all.nl"
