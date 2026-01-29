@@ -9,4 +9,6 @@ intro_image_hide_on_mobile: false
 # VVD - Vrij denken, lokaal doen
 
 De VVD Dalfsen staat voor vrijheid, verantwoordelijkheid en vertrouwen. Wij willen een zelfstandig, ondernemend en leefbaar Dalfsen, met een overheid die ondersteunt waar nodig en ruimte geeft waar het kan.
-Dit is waar wij voor staan:
+
+Het volledige programma kun je hier downloaden: [VVD Dalfsen Verkiezingsprogramma 2026-2030 (PDF)](/downloads/Verkiezingsprogramma-2026-2030-VVD-Dalfsen.pdf)
+
