@@ -4,7 +4,7 @@ date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/GerritJan.png"
 jobtitle: "#1 Lijsttrekker"
-#linkedinurl: "https://www.linkedin.com/"
+linkedinurl: "https://www.linkedin.com/in/gerritjanveldhuis/"
 mail: "g.veldhuis@raaddalfsen.nl"
 tel: "06-11255594"
 portefeuilles: "Alle programma's"
