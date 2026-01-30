@@ -8,7 +8,7 @@ intro_image_absolute_offset: "auto auto -100px -80px" # used to tweak the positi
 intro_image_hide_on_mobile: true
 ---
 
-# Vrijdenken, lokaal doen.
+# Vrij denken, lokaal doen.
 Graag presenteren we u via deze site onze [kandidaten](/team) en ons [kiesprogramma](/programma) voor de gemeenteraadsverkiezingen 2026.
 
 Wij denken dat we een mooi programma hebben voor de komende 4 jaar en we zijn trots op onze kieslijst voor deze verkiezingen.
