@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://www.vvddalfsen.nl/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "nl-nl"
