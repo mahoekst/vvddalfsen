@@ -1,6 +1,6 @@
 ---
 title: "De kracht van Dalfsen"
-date: 2018-11-28T15:14:54+10:00
+date: 2026-02-01T10:00:00+10:00
 featured: true
 draft: false
 weight: 8

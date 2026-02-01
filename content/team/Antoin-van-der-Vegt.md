@@ -1,6 +1,6 @@
 ---
 title: "Antoin van der Vegt"
-date: 2018-11-19T10:47:58+10:00
+date: 2026-02-01T10:00:00+10:00
 draft: false
 image: "images/team/Antoine.png"
 jobtitle: "#2"
