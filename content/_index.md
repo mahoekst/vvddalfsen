@@ -1,5 +1,6 @@
 ---
 title: 'Start pagina'
+date: 2026-02-01T10:00:00+10:00
 meta_title: 'VVD Dalfsen'
 description: "VVD Dalfsen gemeenteraadsverkiezingen 2026"
 intro_image: "images/team/teamzittend.png"

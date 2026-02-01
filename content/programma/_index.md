@@ -1,5 +1,6 @@
 ---
 title: 'Verkiezingsprogramma 2026'
+date: 2026-02-01T10:00:00+10:00
 description: 'Verkiezingsprogramma 2026'
 intro_image: "/images/illustrations/reading.svg"
 intro_image_absolute: true

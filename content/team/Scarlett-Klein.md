@@ -1,9 +1,10 @@
 ---
 title: 'Scarlett Klein'
-date: 2018-12-20T13:44:30+10:00
+date: 2026-02-01T10:00:00+10:00
 draft: false
 image: 'images/team/Scarlett.png'
 jobtitle: '#3'
+linkedinurl: "https://www.linkedin.com/in/scarlettklein/"
 promoted: true
 weight: 3
 ---
