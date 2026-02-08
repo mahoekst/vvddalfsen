@@ -3,11 +3,20 @@
 {{ define "main" }}
 <div class="intro">
   <div class="container">
-    <div class="row justify-content-start">
-      <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+    <div class="row">
+      <div class="col-12">
         {{ .Content }}
       </div>
-      {{ partial "intro-image.html" . }}
+      {{ if .Params.intro_image }}
+      <div class="col-12 mt-3">
+        <img
+          alt="{{ .Title }}"
+          class="intro-image"
+          src="{{ .Params.intro_image | relURL }}"
+          {{ with .Params.intro_image_max_width }}style="max-width: {{ . }}; width: auto;"{{ end }}
+        />
+      </div>
+      {{ end }}
     </div>
   </div>
 </div>

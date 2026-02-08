@@ -4,8 +4,9 @@ date: 2026-02-01T10:00:00+10:00
 description: 'Verkiezingsprogramma 2026'
 intro_image: "images/wordcloudprogramma.jpeg"
 intro_image_absolute: false
-intro_image_absolute_offset: "auto auto -148px -102px"
+# intro_image_absolute_offset: "auto auto -148px -102px"
 intro_image_hide_on_mobile: false
+intro_image_max_width: "600px"
 ---
 
 # VVD - Vrij denken, lokaal doen
