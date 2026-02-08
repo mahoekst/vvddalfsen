@@ -4,7 +4,7 @@
     alt="{{ .Title }}"
     class="intro-image{{ if .Params.intro_image_absolute }} intro-image-absolute{{ end }}{{ if .Params.intro_image_hide_on_mobile }} intro-image-hide-mobile{{ end }}"
     src="{{ .Params.intro_image | relURL }}" 
-    style="{{ if .Params.intro_image_absolute_offset }}inset: {{ .Params.intro_image_absolute_offset }};{{end}}"
+    {{ with .Params.intro_image_absolute_offset }}style="inset: {{ . }};"{{ end }}
   />
 </div>
 {{ end }}
