@@ -3,6 +3,7 @@ title: "Wonen en leefbaarheid"
 date: 2026-02-01T10:00:00+10:00
 featured: true
 draft: false
+image: "images/programma/wonen2.jpg"
 weight: 1
 summary: "Minder praten, sneller bouwen. Betaalbare woningen voor starters en ouderen, ruimte voor mantelzorg en behoud van voorzieningen in alle kernen."
 ---

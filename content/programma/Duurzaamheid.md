@@ -2,6 +2,7 @@
 title: "Duurzaamheid"
 date: 2026-02-01T10:00:00+10:00
 featured: true
+image: "images/programma/duurzaamheid2.png"
 draft: false
 weight: 6
 summary: "Duurzaamheid die haalbaar en betaalbaar blijft. Eerst zon op daken, geen verplichtingen voor aardgasvrij en voordeel voor inwoners."

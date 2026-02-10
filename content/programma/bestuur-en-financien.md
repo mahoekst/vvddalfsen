@@ -2,6 +2,7 @@
 title: "Bestuur en financien"
 date: 2026-02-01T10:00:00+10:00
 featured: true
+image: "images/programma/bestuurenfinancien2.jpg"
 draft: false
 weight: 7
 summary: "Slim financieel beleid: geen hogere lasten. Minder regels, heldere communicatie en geld van inwoners laten werken voor inwoners."

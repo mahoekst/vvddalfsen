@@ -1,6 +1,7 @@
 ---
 title: "Onderwijs"
 date: 2026-02-01T10:00:00+10:00
+image: "images/programma/onderwijs2.jpg"
 featured: true
 draft: false
 weight: 5

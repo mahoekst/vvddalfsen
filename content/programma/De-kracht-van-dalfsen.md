@@ -2,6 +2,7 @@
 title: "De kracht van Dalfsen"
 date: 2026-02-01T10:00:00+10:00
 featured: true
+image: "images/programma/dalfsen2.jpg"
 draft: false
 weight: 8
 summary: "Samen sterk, nuchter vooruit. Ruimte voor verenigingen, vrijwilligers en lokale initiatieven die onze gemeenschap verbinden."

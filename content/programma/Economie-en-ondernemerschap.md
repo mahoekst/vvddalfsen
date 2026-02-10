@@ -2,6 +2,7 @@
 title: "Economie en ondernemerschap"
 date: 2026-02-01T10:00:00+10:00
 draft: false
+image: "images/programma/economie.jpg"
 featured: true
 weight: 3
 summary: "Ondernemers zijn de motor van Dalfsen. Minder regels, snelle vergunningen en ruimte voor groei en vernieuwing."

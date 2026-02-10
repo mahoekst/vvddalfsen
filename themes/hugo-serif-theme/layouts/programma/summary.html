@@ -1,4 +1,9 @@
 <div class="service service-summary">
+  {{ with .Params.image }}
+  <div class="service-image">
+    <a href="{{ $.RelPermalink }}"><img width="360" class="img-fluid mb-2" src="{{ . | relURL }}" alt="{{ $.Title }}" /></a>
+  </div>
+  {{ end }}
   <div class="service-content">
     <h2 class="service-title">
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>

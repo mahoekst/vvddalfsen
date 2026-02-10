@@ -2,6 +2,7 @@
 title: "Veiligheid en bereikbaarheid"
 date: 2026-02-01T10:00:00+10:00
 featured: true
+image: "images/programma/bereikbaarheid2.jpg"
 draft: false
 weight: 2
 summary: "Dalfsen bereikbaar met gezond verstand. Gerichte verbeteringen op gevaarlijke punten en betere verbindingen tussen kernen en Zwolle."
