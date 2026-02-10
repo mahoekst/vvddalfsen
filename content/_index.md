@@ -10,6 +10,8 @@ intro_image_hide_on_mobile: true
 ---
 
 # Vrij denken, lokaal doen.
-Graag presenteren we u via deze site onze [kandidaten](/team) en ons [kiesprogramma](/programma) voor de gemeenteraadsverkiezingen 2026.
+Welkom op de website van VVD Dalfsen.
 
-Wij denken dat we een mooi programma hebben voor de komende 4 jaar en we zijn trots op onze kieslijst voor deze verkiezingen.
+Hier vind je onze [kandidaten](/team) en ons [verkiezingsprogramma](/programma) voor de gemeenteraadsverkiezingen van 2026. 
+
+Een nuchter en realistisch programma voor de komende vier jaar, met een kandidatenlijst van betrokken mensen die zich willen inzetten voor Dalfsen.
