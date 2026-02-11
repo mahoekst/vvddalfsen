@@ -3,8 +3,12 @@ title: 'Scarlett Klein'
 date: 2026-02-01T10:00:00+10:00
 draft: false
 image: 'images/team/Scarlett.png'
-jobtitle: '#3'
+jobtitle: '#3 Kandidaat gemeenteraadslid'
 linkedinurl: "https://www.linkedin.com/in/scarlettklein/"
+#mail: ""
+#tel: ""
+woonplaats: "Nieuwleusen"
+portefeuilles: "Alle portefeuilles en programma's"
 promoted: true
 weight: 3
 ---

@@ -3,8 +3,12 @@ title: "Antoin van der Vegt"
 date: 2026-02-01T10:00:00+10:00
 draft: false
 image: "images/team/Antoine.png"
-jobtitle: "#2"
+jobtitle: '#2 Kandidaat gemeenteraadslid'
 #linkedinurl: "https://www.linkedin.com/example2"
+#mail: ""
+#tel: ""
+woonplaats: "Dalfsen"
+portefeuilles: "Meer aandacht voor de mentale gezondheid van onze jeugd."
 promoted: true
 weight: 2
 ---

@@ -7,7 +7,8 @@ jobtitle: "#1 Lijsttrekker"
 linkedinurl: "https://www.linkedin.com/in/gerritjanveldhuis/"
 mail: "g.veldhuis@raaddalfsen.nl"
 tel: "06-11255594"
-portefeuilles: "Alle programma's"
+woonplaats: "Dalfsen"
+portefeuilles: "Alle portefeuilles en programma's"
 promoted: true
 weight: 1
 ---

@@ -2,12 +2,15 @@
 title: 'Reint Warmelink'
 date: 2026-02-01T10:00:00+10:00
 draft: false
-image: 'images/team/Reint.jpeg'
-jobtitle: '#7'
-weight: 7
+image: 'images/team/Reint.jpg'
+jobtitle: '#7 Kandidaat gemeenteraadslid'
 linkedinurl: "https://www.linkedin.com/in/reintwarmelink/"
-email: "reintwarmelink@xs4all.nl"
-overig: "Bereikbaarheid, mobiliteit, noaberschap, participatie, Hoonhorst en het buitengebied. Verder beheer openbare ruimte, ruimtelijke ordening & volkshuisvesting, onderwijs, duurzaamheid, zorg, veiligheid en werkgelegenheid."
+mail: "reintwarmelink@xs4all.nl"
+#tel: ""
+woonplaats: "Hoonhorst"
+portefeuilles: "Bereikbaarheid, mobiliteit, noaberschap, participatie, Hoonhorst en het buitengebied. Verder beheer openbare ruimte, ruimtelijke ordening & volkshuisvesting, onderwijs, duurzaamheid, zorg, veiligheid en werkgelegenheid."
+weight: 7
+
 ---
 
 Ik woon in het buitengebied van Hoonhorst vlak bij de Moezenbelt. Ik ben vanaf 2003 lid van de VVD en was van 2010 tot 2018 lid van de steunfractie.

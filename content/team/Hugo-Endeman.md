@@ -3,11 +3,14 @@ title: 'Hugo Endeman'
 date: 2026-02-01T10:00:00+10:00
 draft: false
 image: 'images/team/Hugo.png'
-jobtitle: '#5'
+jobtitle: '#5 Kandidaat gemeenteraadslid'
+linkedinurl: "https://www.linkedin.com/in/gerritjanveldhuis/"
+mail: "h.endeman@raaddalfsen.nl"
+tel: "06-57317832"
+woonplaats: "Dalfsen"
+portefeuilles: "Alle portefeuilles en programma's"
 promoted: true
 weight: 5
-email: "h.endeman@raaddalfsen.nl"
-telephone: " 06-57317832"
 ---
 
 Ik ben Hugo Endeman 34 jaar en woon in het mooie Dalfsen. In het dagelijks leven ben ik ondernemer en actief als bestuurslid van SV Dalfsen. In mijn vrije tijd probeer ik zoveel mogelijk op de racefiets of gravelbike te genieten van het prachtige Vechtdal.

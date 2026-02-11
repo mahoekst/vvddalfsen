@@ -3,12 +3,14 @@ title: 'Matthijs Hoekstra'
 date: 2026-02-01T10:00:00+10:00
 draft: false
 image: 'images/team/Matthijs.png'
+jobtitle: '#4 kandidaat raadslid'
 linkedinurl: "https://www.linkedin.com/in/matthijs/"
-jobtitle: '#4'
-promoted: true
+mail: "matthijs@hoekstraonline.net"
+tel: "06-10209893"
+woonplaats: "(Ooster)Dalfsen"
+portefeuilles: "Alle programma's"
 weight: 4
-email: "matthijs@hoekstraonline.net"
-telephone: "06-10209893"
+promoted: true
 ---
 Ik ben Matthijs Hoekstra, 53 jaar en woon sinds 2024 in Dalfsen. Ik ben getrouwd met Sandra en we hebben een 17 jarige dochter Lisa.We wonen sinds 2024 in Dalfsen nadat we 11 jaar voor mijn werk bij Microsoft in de Verenigde Staten hebben gewoond. We zijn hier zeer warm ontvangen en het bevalt ons zo goed in Dalfsen dat we eind vorig jaar een huis hebben gekocht in Oosterdalfsen en ons hier nog heel lang zien wonen. Meedoen met de verkiezingen en helpen via de steunfractie van de VVD vind ik een mooie manier om iets terug te doen voor deze fijne gemeente.
 
