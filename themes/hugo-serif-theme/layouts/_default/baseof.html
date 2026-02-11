@@ -21,6 +21,7 @@
   {{ block "header_css" . }}{{ end }}
 
   {{ block "meta_tags" . }}
+    {{ if .Params.noindex }}<meta name="robots" content="noindex, nofollow"/>{{ end }}
     {{ with .Params.description }}<meta name="description" content="{{ . }}"/>{{ end }}
     <meta property="og:title" content="{{ .Params.meta_title | default .Title }}"/>
     <meta property="og:type" content="website"/>

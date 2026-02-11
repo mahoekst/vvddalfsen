@@ -49,10 +49,7 @@ title = "VVD Dalfsen gemeenteraadsverkiezingen 2026"
     white_offset = "#f6f7ff"
     grey = "#0A2CCA"
 
-  [params.seo]
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
-    meta_og_image = "https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png"
+
 
   [params.programma]
     summary_truncate = 120 # How many characters to include in the summary of the services before truncating
