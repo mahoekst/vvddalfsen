@@ -1,7 +1,7 @@
 ---
 title: 'Start pagina'
 date: 2026-02-01T10:00:00+10:00
-meta_title: 'VVD Dalfsen'
+meta_title: 'VVD Dalfsen Campagne gemeenteraadsverkiezingen 2026!'
 description: "VVD Dalfsen gemeenteraadsverkiezingen 2026"
 intro_image: "images/team/teamzittend.png"
 intro_image_absolute: false # makes the image use css position: absolute; so it looks "offset". It's a visual effect that might not always look good depending on the image you use.
